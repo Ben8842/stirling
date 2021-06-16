@@ -5,7 +5,13 @@ header {
 body {
   font-family: Calibri;
 }
+span {
+  text-align: right;
+}
 
+.r {
+  border-radius: 20px;
+}
 .floaters {
   float: left;
 }
@@ -27,7 +33,7 @@ h1 {
 }
 
 .mlogo {
-  height: 1em;
+  height: 3em;
   width: auto;
   padding: 1px;
   margin-right: 10px;
@@ -200,6 +206,13 @@ h4 {
   color: white;
 
   padding: 10px;
+}
+
+span {
+  text-align: right;
+}
+.first {
+  max-height: 100px;
 }
 
 .bluebox {
